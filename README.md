@@ -2,19 +2,13 @@
 
 <br/>
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=LordHelmchen1987.visitor-badge)
-
 <br />
 
 #### - 💬 Connect? Here 👇
-<br />[<img src="https://www.cpro-iot.de/wp-content/uploads/Logo-mit-Claim_weiss-1920x204.png" >](http://www.cpro-iot.de/karriere/)
-
-
 <br />
 
 
-**For Development we are using**
+**For Development:**
 
 **NodeJS**
 <br />
