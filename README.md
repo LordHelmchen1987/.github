@@ -1,5 +1,5 @@
 ### Hi there & Welcome to my Git Profile 👋  
-
+Let´s start to give you a small overview of things...
 <br/>
 
 <br />
